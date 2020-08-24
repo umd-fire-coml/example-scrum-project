@@ -2,7 +2,12 @@
 ## On the topic of headings
 ### Hey this is an even smaller heading
 #### This would be 4 hashtags
-
+```markdown
+# This is a example Markdown readme
+## On the topic of headings
+### Hey this is an even smaller heading
+#### This would be 4 hashtags
+```
 ## On the topic of text
 **This is some cool bold text with** `**<text>**`
 *This is an example of the italicized text*
