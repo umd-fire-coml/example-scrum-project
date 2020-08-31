@@ -3,9 +3,9 @@
 ![symbol](img.jpg)
 This is an example image, I just put our school logo here
 ## Features
-- use [Projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as product backlog.
-- use [Issues](https://github.com/umd-fire-coml/example-scrum-project/issues) for tracking backlog tasks.
-- use [Branches] to implement each task.
+- use [Projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as the product backlog.
+- use [Issues](https://github.com/umd-fire-coml/example-scrum-project/issues) for each ongoing backlog task.
+- use [Branches](https://github.com/umd-fire-coml/example-scrum-project/branches) to implement each task.
 - use [Pull requests](https://github.com/umd-fire-coml/example-scrum-project/pulls) for reviewing and merging each completed task branch.
 
 ## Example of Running the code
