@@ -1,6 +1,7 @@
 # Example Scrum Project
 ### Example Scrum Project is a example project meant to demonstrate git and our workflow
 ![symbol](img.jpg)
+This is an example image, I just put our school logo here
 ## Features
 - well prepared code repo
 - a good display of the use of [git](https://git-scm.com/)
@@ -27,7 +28,8 @@ git clone git@github.com:umd-fire-coml/example-scrum-project.git
 cd example-scrum-project
 sudo chmod 446 README.MD 
 ```
-## Example table
+## Progress Table
+### This is a sample demonstration of a table
 |Name|Progress|Points|Description| Asignee|
 ---|:---:|:---:|:---|---:
 `dp-download`| Done!| 1| Download the training data| Derek
