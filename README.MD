@@ -3,12 +3,12 @@
 ![symbol](img.jpg)
 This is an example image, I just put our school logo here
 ## Features
+- use [projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as product backlog
+- use [issues](https://guides.github.com/features/issues/) for feature tasks
+- use 
 - well prepared code repo
-- a good display of the use of [git](https://git-scm.com/)
-- really well processed data
-- creation of many [issues](https://guides.github.com/features/issues/)
-- a well crafted readme
-- An example to practice git with
+- demonstration of the use of [git](https://git-scm.com/)
+
 ## Example of Running the code
 Start by running `python3 --version` and ensuring it is 3.6 or higher. \
 Ensure you have the following libaries installed by running `pip freeze`
