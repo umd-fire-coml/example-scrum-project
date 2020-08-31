@@ -1,7 +1,7 @@
 # Example Scrum Project
 ### Example Scrum Project is a example project meant to demonstrate git and our workflow
-![symbol](img.jpg)
-This is an example image, I just put our school logo here
+[![symbol](img.jpg)](https://www.umd.edu/) </br>
+This is an example image, I just put our school logo here, it works as a hyperlink
 ## Features
 - use [Projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as the product backlog.
 - use [Issues](https://github.com/umd-fire-coml/example-scrum-project/issues) for each ongoing backlog task.
@@ -29,6 +29,7 @@ sudo chmod 446 README.MD
 ```
 ## Progress Table
 ### This is a sample demonstration of a table
+This also demonstrates how aligning works, and also how emojis work. You can embed images in tables too. 
 |Name|Progress|Points|Description| Asignee|
 ---|:---:|:---:|:---|---:
 `dp-download`| Done!| 1| Download the training data| Derek
@@ -38,8 +39,8 @@ sudo chmod 446 README.MD
 `dp-visualization`| :x:| 5| Create a visualization of the training data| Vlad
 `dp-jupyterlab`| :x: | 2 | Set up the jupyter lab | Josh 
 `model-detection`| :x: | 1 | Create the model | :worried:
-## Known issue with code
-Add these lines of code to fix
+## Code block
+This is an example code block to demonstrate how to write code in markdown
 ```python
 import os
 txt = " your code is fixedaroni"
