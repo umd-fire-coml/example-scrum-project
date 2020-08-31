@@ -27,7 +27,7 @@ git clone git@github.com:umd-fire-coml/example-scrum-project.git
 cd example-scrum-project
 sudo chmod 446 README.MD 
 ```
-## Current Progress
+## Example table
 |Name|Progress|Points|Description| Asignee|
 ---|:---:|:---:|:---|---:
 `dp-download`| Done!| 1| Download the training data| Derek
