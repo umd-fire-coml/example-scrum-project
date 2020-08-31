@@ -3,11 +3,10 @@
 ![symbol](img.jpg)
 This is an example image, I just put our school logo here
 ## Features
-- use [projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as product backlog
-- use [issues](https://guides.github.com/features/issues/) for feature tasks
-- use 
-- well prepared code repo
-- demonstration of the use of [git](https://git-scm.com/)
+- use [Projects](https://github.com/umd-fire-coml/example-scrum-project/projects) as product backlog.
+- use [Issues](https://github.com/umd-fire-coml/example-scrum-project/issues) for tracking backlog tasks.
+- use [Branches] to implement each task.
+- use [Pull requests](https://github.com/umd-fire-coml/example-scrum-project/pulls) for reviewing and merging each completed task branch.
 
 ## Example of Running the code
 Start by running `python3 --version` and ensuring it is 3.6 or higher. \
