@@ -1,5 +1,5 @@
 # Example Scrum Project
-### Example Scrum Project is a example project meant to demonstrate git and our workflow
+### Example Scrum Project is a example project meant to demonstrate our Scrum and Git workflow
 [![symbol](img.jpg)](https://www.umd.edu/) </br>
 This is an example image, I just put our school logo here, it works as a hyperlink
 ## Features
